@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MADMechaniculus
+- 👀 I’m interested in C++ programming and studying omething new!
+- 🌱 I’m currently learning dark magic of C++
+- 📫 How to reach me *rihanna271298gmail.com*
